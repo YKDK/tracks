@@ -1853,6 +1853,14 @@ body {
             justify-content: flex-end;
   }
 
+  .cart-open .product__image {
+    opacity: 0.1;
+  }
+
+  .cart-open .product__select-block {
+    opacity: 0.1;
+  }
+
   .block-select__size {
     max-width: 100%;
   }
